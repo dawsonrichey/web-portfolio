@@ -57,6 +57,7 @@
 			/></noscript>
 			-->
 		<!-- End Facebook Pixel Code -->
+
   </head>
 
   <body class="material-template">
@@ -803,7 +804,21 @@
                       <div class="block-title">
                         <h3>Contact <span>Form</span></h3>
                       </div>
-                      <form id="contact-form" method="post" action="contact_form/contact_form.php">
+                      <html>
+                        <head>
+                          <title>reCAPTCHA demo: Simple page</title>
+                          <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+                        </head>
+                        <body>
+                          <form action="?" method="POST">
+                            <div class="g-recaptcha" data-sitekey="6LdAYNsbAAAAAIyRXbsKnjQ_XRMvAobam8BhzIQw"></div>
+                            <br/>
+                            <input type="submit" value="Submit">
+                          </form>
+                        </body>
+                      </html>
+
+                      <!-- <form id="contact-form" method="post" action="contact_form/contact_form.php">
 
                         <div class="messages"></div>
 
@@ -836,7 +851,7 @@
 
                           <input type="submit" class="button btn-send" value="Send message">
                         </div>
-                      </form>
+                      </form> -->
                     </div>
                   </div>
                 </div>

@@ -1,6 +1,6 @@
-[ ]Add Crisp chat app
+[ ]Remove Crisp chat app
 [ ]Add google analytics code
-[ ]Add profile picture
+[X]Add profile picture
 [ ]Test current social media links
 [ ]Make background header image consistant accross all pages
 [ ]Make the SEO text visable
@@ -13,9 +13,8 @@
 [ ]Update google map
 [ ]Replace pricing section with hobbies section
 [ ]Replace testimonials with a reference list
-[ ]Replace secvices content
-[ ]Start a todo list
-[ ]Fix captcha
+[ ]Replace service content
+[ ]Add recaptcha
 [ ]Update PHP form
 [ ]Make all of the yellows match
 [ ]Add more text to the about section on the home pg
