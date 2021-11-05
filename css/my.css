@@ -67,7 +67,7 @@ color:#fc0
 }
 
 .service-pg.bg-primary i {
-color:#337ab7
+color:#04b09c
 }
 
 .service-pg.bg-primary .block-title h3 span {
@@ -90,13 +90,13 @@ padding-top:56.25%
 }
 
 .service-image {
-background-color:#337ab7;
+background-color:#04b09c;
 color:#fff
 }
 
 .row.service-pg.bg-primary .service-image {
 background-color:#fff;
-color:#337ab7
+color:#04b09c
 }
 
 .dark {
@@ -157,7 +157,7 @@ display:none;
 
 .ajax-page-nav>div.nav-item a {
 color:#f5f5f5;
-background-color:#2196f3
+background-color:#04b09c
 }
 
 #appView .powrMark__logo-block, span.powrMark__text {
@@ -172,7 +172,7 @@ right:0;
 top:50px;
 z-index:1001;
 overflow:auto;
-background-color:#2196F3;
+background-color:#04b09c;
 -webkit-box-shadow:-11px 12px 16px 9px rgba(0,0,0,0.2);
 -moz-box-shadow:-11px 12px 16px 9px rgba(0,0,0,0.2);
 box-shadow:-11px 12px 16px 9px rgba(0,0,0,0.2);
