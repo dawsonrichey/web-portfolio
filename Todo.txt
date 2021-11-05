@@ -1,0 +1,31 @@
+[ ]Add Crisp chat app
+[ ]Add google analytics code
+[ ]Add profile picture
+[ ]Test current social media links
+[ ]Make background header image consistant accross all pages
+[ ]Make the SEO text visable
+[ ]Update favicon image
+[ ]Update Education Section
+[ ]Update Expereince Section
+[ ]Update skills section
+[ ]Change navigation text color
+[ ]Update get in touch info
+[ ]Update google map
+[ ]Replace pricing section with hobbies section
+[ ]Replace testimonials with a reference list
+[ ]Replace secvices content
+[ ]Start a todo list
+[ ]Fix captcha
+[ ]Update PHP form
+[ ]Make all of the yellows match
+[ ]Add more text to the about section on the home pg
+[ ]Fix the wrap around Rebbecca Under reviews
+[ ]Add Review for Jared
+[ ]Change Bogdin primary photo
+[ ]Make URLs consistant for portfolio
+[ ]Make Nav buttons standout on portfolio pages
+[ ]Create blog post
+[ ]Update Dates for Portfolio
+[ ]Hide Share on current portfolios
+[ ]Fix icon drop shadows on the home pg
+
